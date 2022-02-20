@@ -1,0 +1,12 @@
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/bin/Debug/net6.0/DependencyGraph.deps.json
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/bin/Debug/net6.0/DependencyGraph.dll
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/bin/Debug/net6.0/ref/DependencyGraph.dll
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/bin/Debug/net6.0/DependencyGraph.pdb
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.csproj.AssemblyReference.cache
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.GeneratedMSBuildEditorConfig.editorconfig
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.AssemblyInfoInputs.cache
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.AssemblyInfo.cs
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.csproj.CoreCompileInputs.cache
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.dll
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/ref/DependencyGraph.dll
+/home/jack/RiderProjects/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.pdb

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Spreadsheet/1.0.0": {
+        "dependencies": {
+          "DependencyGraph": "1.0.0",
+          "Formula": "1.0.0"
+        },
+        "runtime": {
+          "Spreadsheet.dll": {}
+        }
+      },
+      "DependencyGraph/1.0.0": {
+        "runtime": {
+          "DependencyGraph.dll": {}
+        }
+      },
+      "Formula/1.0.0": {
+        "dependencies": {
+          "FormulaEvaluator": "1.0.0"
+        },
+        "runtime": {
+          "Formula.dll": {}
+        }
+      },
+      "FormulaEvaluator/1.0.0": {
+        "runtime": {
+          "FormulaEvaluator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spreadsheet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Formula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormulaEvaluator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

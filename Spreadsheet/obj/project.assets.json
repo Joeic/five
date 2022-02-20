@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DependencyGraph/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DependencyGraph.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DependencyGraph.dll": {}
+        }
+      },
+      "Formula/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FormulaEvaluator": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Formula.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Formula.dll": {}
+        }
+      },
+      "FormulaEvaluator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FormulaEvaluator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FormulaEvaluator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyGraph/1.0.0": {
+      "type": "project",
+      "path": "../DependencyGraph/DependencyGraph.csproj",
+      "msbuildProject": "../DependencyGraph/DependencyGraph.csproj"
+    },
+    "Formula/1.0.0": {
+      "type": "project",
+      "path": "../Formula/Formula.csproj",
+      "msbuildProject": "../Formula/Formula.csproj"
+    },
+    "FormulaEvaluator/1.0.0": {
+      "type": "project",
+      "path": "../FormulaEvaluator/FormulaEvaluator.csproj",
+      "msbuildProject": "../FormulaEvaluator/FormulaEvaluator.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DependencyGraph >= 1.0.0",
+      "Formula >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/jack/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/jack/RiderProjects/Spreadsheet/Spreadsheet/Spreadsheet.csproj",
+      "projectName": "Spreadsheet",
+      "projectPath": "/home/jack/RiderProjects/Spreadsheet/Spreadsheet/Spreadsheet.csproj",
+      "packagesPath": "/home/jack/.nuget/packages/",
+      "outputPath": "/home/jack/RiderProjects/Spreadsheet/Spreadsheet/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/jack/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/jack/RiderProjects/Spreadsheet/DependencyGraph/DependencyGraph.csproj": {
+              "projectPath": "/home/jack/RiderProjects/Spreadsheet/DependencyGraph/DependencyGraph.csproj"
+            },
+            "/home/jack/RiderProjects/Spreadsheet/Formula/Formula.csproj": {
+              "projectPath": "/home/jack/RiderProjects/Spreadsheet/Formula/Formula.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

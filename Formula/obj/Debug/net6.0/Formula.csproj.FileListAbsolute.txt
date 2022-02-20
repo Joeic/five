@@ -1,0 +1,15 @@
+/home/jack/RiderProjects/Spreadsheet/Formula/bin/Debug/net6.0/Formula.deps.json
+/home/jack/RiderProjects/Spreadsheet/Formula/bin/Debug/net6.0/Formula.dll
+/home/jack/RiderProjects/Spreadsheet/Formula/bin/Debug/net6.0/ref/Formula.dll
+/home/jack/RiderProjects/Spreadsheet/Formula/bin/Debug/net6.0/Formula.pdb
+/home/jack/RiderProjects/Spreadsheet/Formula/bin/Debug/net6.0/FormulaEvaluator.dll
+/home/jack/RiderProjects/Spreadsheet/Formula/bin/Debug/net6.0/FormulaEvaluator.pdb
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.csproj.AssemblyReference.cache
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.GeneratedMSBuildEditorConfig.editorconfig
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.AssemblyInfoInputs.cache
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.AssemblyInfo.cs
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.csproj.CoreCompileInputs.cache
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.csproj.CopyComplete
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.dll
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/ref/Formula.dll
+/home/jack/RiderProjects/Spreadsheet/Formula/obj/Debug/net6.0/Formula.pdb

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FormulaEvaluator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FormulaEvaluator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FormulaEvaluator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormulaEvaluator/1.0.0": {
+      "type": "project",
+      "path": "../FormulaEvaluator/FormulaEvaluator.csproj",
+      "msbuildProject": "../FormulaEvaluator/FormulaEvaluator.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FormulaEvaluator >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/jack/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/jack/RiderProjects/Spreadsheet/Test_The_Evaluator_Console_App/Test_The_Evaluator_Console_App.csproj",
+      "projectName": "Test_The_Evaluator_Console_App",
+      "projectPath": "/home/jack/RiderProjects/Spreadsheet/Test_The_Evaluator_Console_App/Test_The_Evaluator_Console_App.csproj",
+      "packagesPath": "/home/jack/.nuget/packages/",
+      "outputPath": "/home/jack/RiderProjects/Spreadsheet/Test_The_Evaluator_Console_App/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/jack/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/jack/RiderProjects/Spreadsheet/FormulaEvaluator/FormulaEvaluator.csproj": {
+              "projectPath": "/home/jack/RiderProjects/Spreadsheet/FormulaEvaluator/FormulaEvaluator.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

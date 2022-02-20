@@ -1,0 +1,53 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07d93a6c_002D052f_002D4f49_002D9381_002D31a8c22688b3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestExtraParentheses #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D00B5EF7-75EB-4F2C-94B0-EBF881541E6B::net6.0::TestEvaluator.EvaluatorTest.TestExtraParentheses&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f712616_002D5ea2_002D4b77_002Da950_002D1b2e2c065264/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestExtraParentheses" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D00B5EF7-75EB-4F2C-94B0-EBF881541E6B::net6.0::TestEvaluator.EvaluatorTest.TestExtraParentheses&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26e48229_002D50f8_002D4f19_002D8eb1_002D422f304f2a2b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestComplexMultiVar" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D00B5EF7-75EB-4F2C-94B0-EBF881541E6B::net6.0::TestEvaluator.EvaluatorTest.TestComplexMultiVar&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=311edf05_002D222a_002D40f9_002D8938_002D48a321248624/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestConstructor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::78ABE224-7AC5-4B00-9BCE-BF9D90699C46::net6.0::SpreadsheetTests.SpreadsheetTests.TestConstructor&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c011832_002D1563_002D46a5_002D877e_002D001eeb386d05/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestParensNoOperator #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D00B5EF7-75EB-4F2C-94B0-EBF881541E6B::net6.0::TestEvaluator.EvaluatorTest.TestParensNoOperator&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a573f74e_002D7c25_002D436e_002D9647_002Da50dcc73949b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestParensNoOperator" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D00B5EF7-75EB-4F2C-94B0-EBF881541E6B::net6.0::TestEvaluator.EvaluatorTest.TestParensNoOperator&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a8cdde21_002D10ea_002D4bb1_002Da962_002D5d4c2e4f9cfb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;DependencyGraphTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;D00B5EF7-75EB-4F2C-94B0-EBF881541E6B/f:UnitTest1.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec1e12f5_002D9e6b_002D4d3e_002D9b2f_002D04c5dbdd10fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestComplexMultiVar #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eddd405a_002D7ee1_002D44a4_002D831f_002D6879db059636/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetNamesOfAllNonemptyCells" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/jack/RiderProjects/Spreadsheet/SpreadsheetTests" Presentation="&amp;lt;SpreadsheetTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eea9c017_002D5d10_002D46bb_002D8312_002D605687f7af5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestExtraOperator #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D00B5EF7-75EB-4F2C-94B0-EBF881541E6B::net6.0::TestEvaluator.EvaluatorTest.TestExtraOperator&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f9016231_002D7d92_002D4e21_002Db9a3_002D00bc54ac72d9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestExtraOperator" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::D00B5EF7-75EB-4F2C-94B0-EBF881541E6B::net6.0::TestEvaluator.EvaluatorTest.TestExtraOperator&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;78ABE224-7AC5-4B00-9BCE-BF9D90699C46/f:SpreadsheetTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
