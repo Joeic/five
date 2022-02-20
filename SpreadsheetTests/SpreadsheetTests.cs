@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SS;
 using System.Collections.Generic;
@@ -28,7 +28,7 @@ namespace SpreadsheetTests
 		{
 			
 			
-			Assert.IsTrue(sheet1.IsValid("any old string"));
+			Assert.IsTrue(sheet1.IsValid("I am for test"));
 			Assert.IsTrue(sheet1.Normalize("dead") == "dead");
 			Assert.IsTrue(sheet1.Version == "default");
 			
@@ -36,20 +36,20 @@ namespace SpreadsheetTests
 			sheet1 = new Spreadsheet(s => (s.Length >= 2) ? true : false, 
 				s => s.Replace(" ", ""),
 				"version1");
-			Assert.IsTrue(sheet1.IsValid("A1"));
-			Assert.IsFalse(sheet1.IsValid("A"));
+			Assert.IsTrue(sheet1.IsValid("B1"));
+			Assert.IsFalse(sheet1.IsValid("B"));
 			Assert.IsTrue(sheet1.Normalize("d e a d") == "dead");
 			Assert.IsTrue(sheet1.Version == "version1");
-			sheet1.SetContentsOfCell("A1","loaded!");
+			sheet1.SetContentsOfCell("B1","loaded!");
 
-			string savePath = "save 1.xml";
+			string savePath = "save test.xml";
 			sheet1.Save(savePath);
 			sheet1 = new Spreadsheet(
 				savePath,
 				s => (s.Length >= 2) ? true : false, 
 				s => s.Replace(" ", ""),
 				"version1");
-			Assert.AreEqual("loaded!",(string)sheet1.GetCellContents("A1"));
+			Assert.AreEqual("loaded!",(string)sheet1.GetCellContents("B1"));
 		}
 		
 		
