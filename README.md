@@ -15,8 +15,16 @@ The Spreadsheet program is currently capable of calculating the input math strin
 
 # Time Expenditures:
 
-    1. Assignment One:   Predicted Hours:          10        Actual Hours:       20
-    2. Assignment two:   Predicted Hours:          10        Actual Hours:       20
-    3. Assignment three: Predicted Hours:        10        Actual Hours:       20
-  
-  
+   Hours Estimated/Worked         Assignment                      
+          6    /   12    - Assignment 1 - Formula Evaluator     Spent 4 extra hours fighting git, otherwise good.
+         12    /   13    - Assignment 2 - Dependency Graph      
+         10    /   11    -  Assignment 3 - Formula 
+         10    /   10    -  Assignment 5  - Onward to a Spreadsheet
+         15    /   15    - Assignment 5 Spreadsheet Model
+#  Examples of Good Software Practice (GSP)
+DRY- I put every repeated code into one method, so that I can directly use them instead of write the same code again and 
+again.
+Well named, commented, short methods that do a specific job and return a specific result. - I named every methods clearly that 
+I see what they can do as long as I see their names
+Testing strategies- For testing part, I not only test the correct output, but also tested incorrected output and exception. I 
+can come up with every situation to test to avoid tests failure.
