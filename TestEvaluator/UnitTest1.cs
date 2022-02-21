@@ -17,7 +17,7 @@ namespace TestEvaluator
     [TestMethod(), Timeout(5000)]
     [TestCategory("1")]
     public void TestSingleNumber()
-    {//
+    {
         //Assert.AreEqual(5, Evaluator.Evaluate("5", s => 0));
         Assert.AreEqual( 1, Evaluator.Evaluate( "()1", s => 0 ) );
     }
