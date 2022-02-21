@@ -146,7 +146,7 @@ namespace SS
         /// <summary>
         ///   Returns the names of all non-empty cells.
         /// </summary>
-        /// 
+        ///  
         /// <returns>
         ///     Returns an Enumerable that can be used to enumerate
         ///     the names of all the non-empty cells in the spreadsheet.  If 
