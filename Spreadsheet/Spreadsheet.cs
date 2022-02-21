@@ -20,7 +20,7 @@ using StringExtension;
 	{
         private DependencyGraph DG;
         private Dictionary<string, Cell> Sheet;
-        
+         
         public override bool Changed
         {
             get;
