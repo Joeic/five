@@ -1,7 +1,7 @@
 # Comments to SpreadSheet:
 
 
-This project will recognize the string math input and calculate its result
+This project will generate filelogger
 # Assignment Specific Topics
 
 
